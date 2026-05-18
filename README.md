@@ -4,11 +4,9 @@ cs @ northeastern · finance minor · class of 2028
 
 i like building things that sit at the intersection of **data, finance, and the web**. usually full-stack, usually with a scoring algorithm hiding somewhere underneath.
 
-```
 based in     ── boston, ma
 open to      ── co-ops - july -> december 2026
 reach me     ── nmallik1029@gmail.com
-```
 
 ---
 
@@ -26,11 +24,9 @@ a stock analysis platform built around real-time data from yfinance. auth + a co
 
 #### stack
 
-```
 languages   python · typescript · java · sql · javascript
 frontend    react · tailwind · html/css
 backend     supabase · docker
-```
 
 ---
 
