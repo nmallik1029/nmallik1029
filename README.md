@@ -1,16 +1,49 @@
-## Hi there 👋
+### hey, i'm neel 👋
 
-<!--
-**nmallik1029/nmallik1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs @ northeastern · finance minor · class of 2028
 
-Here are some ideas to get you started:
+i like building things that sit at the intersection of **data, finance, and the web**. usually full-stack, usually with a scoring algorithm hiding somewhere underneath.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+based in     ── boston, ma
+open to      ── co-ops - july -> december 2026
+reach me     ── nmallik1029@gmail.com
+```
+
+---
+
+#### what i'm building
+
+**EMBER Analytics** &nbsp;·&nbsp; *typescript, python*
+a portfolio generator that takes your capital, risk tolerance, and interests and spits back a personalized basket. the interesting part is the scoring layer: volatility, historical returns, financial indicators, all fed into a filter that ranks suggestions.
+
+**VSN Analysis** &nbsp;·&nbsp; *html, css, js, python*
+a stock analysis platform built around real-time data from yfinance. auth + a community layer so users can share insights, all backed by supabase. designed for retail investors who shouldn't need a bloomberg terminal to look up a ticker.
+
+---
+
+#### stack
+
+```
+languages   python · typescript · java · sql · javascript
+frontend    react · tailwind · html/css
+backend     supabase · docker
+```
+
+---
+
+#### currently
+
+- learning more about databases, systems, and ai
+- shipping features on EMBER + VSN
+- looking for a summer/fall 2026 co-op
+
+---
+
+#### 🏓 outside of code
+
+founded the **Games Club** at Northeastern Oakland — went from zero to 50+ on the mailing list. if it's a board game or a fighter, i probably want to play it.
+
+---
+
+<sub>📫 [email](mailto:nmallik1029@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/neel-mallik)</sub>
