@@ -40,10 +40,4 @@ backend     supabase · docker
 
 ---
 
-#### 🏓 outside of code
-
-founded the **Games Club** at Northeastern Oakland — went from zero to 50+ on the mailing list. if it's a board game or a fighter, i probably want to play it.
-
----
-
-<sub>📫 [email](mailto:nmallik1029@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/neel-mallik)</sub>
+<sub>Contact: [email](mailto:nmallik1029@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/neel-mallik)</sub>
