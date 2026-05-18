@@ -15,10 +15,12 @@ reach me     ── nmallik1029@gmail.com
 #### what i'm building
 
 **EMBER Analytics** 
+
 *typescript, python*
 a portfolio generator that takes your capital, risk tolerance, and interests and spits back a personalized basket. the interesting part is the scoring layer: volatility, historical returns, financial indicators, all fed into a filter that ranks suggestions.
 
 **VSN Analysis**
+
 *html, css, js, python*
 a stock analysis platform built around real-time data from yfinance. auth + a community layer so users can share insights, all backed by supabase. designed for retail investors who shouldn't need a bloomberg terminal to look up a ticker.
 
