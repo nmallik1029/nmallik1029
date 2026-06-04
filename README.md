@@ -7,8 +7,6 @@ i like building things that sit at the intersection of **data, finance, and the 
 
 based in     ── boston, ma
 
-reach me     ── nmallik1029@gmail.com
-
 ---
 
 #### stack
@@ -29,4 +27,4 @@ backend     supabase · docker
 
 ---
 
-<sub>Contact: [email](mailto:nmallik1029@gmail.com) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/neel-mallik)</sub>
+<sub>Contact: email: nmallik1029@gmail.com | linkedin: https://linkedin.com/in/neel-mallik
