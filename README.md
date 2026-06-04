@@ -1,6 +1,6 @@
 ### Hi, I'm Neel!
 
-cs @ northeastern · finance minor · class of 2028
+cs @ northeastern · mathematics minor · class of 2028
 
 i like building things that sit at the intersection of **data, finance, and the web**. usually full-stack, usually with a scoring algorithm hiding somewhere underneath.
 
